@@ -37,6 +37,6 @@ ignore_errors = True
 [paths]
 source =
   saltext/cohesity
-  src/saltext/cohesity
+  saltext/cohesity
 testsuite =
   tests/

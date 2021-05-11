@@ -12,8 +12,8 @@ from setuptools import setup, find_packages
 
 
 setup(
-        name="saltext",
-        version="1.0",
+        name="cohesity-extension",
+        version='1.0.0',
         author="Cohesity",
         packages=find_packages()
         )
