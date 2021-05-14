@@ -82,10 +82,6 @@ def __virtual__():
     return False, "Could not import the Cohesity SDK modules"
 
 
-def check_status():
-    return "Success"
-
-
 def _get_sd_id(name):
     """
     Function to fetch storage domain available in the cluster.
